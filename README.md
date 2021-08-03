@@ -5,7 +5,7 @@ A WordPress plugin for static site generation and deployment. This work has been
 
 ## Installation options 
 
- - Compiled version of most recent release can be downloaded from [ lastest 7.1.6 release tag.](https://github.com/seowings/wp2static/releases/tag/7.1.6)
+ - Compiled version of most recent release can be downloaded from [ lastest 7.1.6 release tag.](https://github.com/seowings/wp2static/releases/tag/7.1.6-seowings)
  - Downlaod the compile zip file and upload to your WordPress Plugins by going to Plugins -> Add New
  - More detailed instructions are avilable on [seowings.org](https://www.seowings.org) website.
 
