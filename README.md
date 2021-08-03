@@ -1,13 +1,13 @@
 # WP2Static
 
-A WordPress plugin for static site generation and deployment.
+A WordPress plugin for static site generation and deployment. This work has been done by @leonstaffor and available in public domain [See `LICENSE.md`](./LICENCE.md)
 
-## Installation options
 
- - from this source code `git clone https://github.com/leonstafford/wp2static.git` (run `composer install` afterwards)
- - via [Composer](https://github.com/composer/composer) `composer require leonstafford/wp2static`
- - get installer zip from [wp2static.com](https://wp2static.com/download/)
- - [compile your own installer zip from source code](https://wp2static.com/compiling-from-source/)
+## Installation options 
+
+ - Compiled version of most recent release can be downloaded from [ lastest 7.1.6 release tag.](https://github.com/seowings/wp2static/releases/tag/7.1.6)
+ - Downlaod the compile zip file and upload to your WordPress Plugins by going to Plugins -> Add New
+ - More detailed instructions are avilable on [seowings.org](https://www.seowings.org) website.
 
 
 ## [Docs](https://wp2static.com)
@@ -16,6 +16,9 @@ A WordPress plugin for static site generation and deployment.
 
 ### Contributing
 
-[See `README_old.md`](./README_old.md)
+[See `CONTRIBUTING.md`](./CONTRIBUTING.md)
 
 
+### Update Status
+
+This Readme file is an updated verion. To see the orginal version please visit [`README_old.md`](./README_old.md). 
